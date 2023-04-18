@@ -1,25 +1,3 @@
-
-# Uncovering the Role of α4βδ GABAA Receptors in Synaptic Pruning of the Prelimbic Cortex and its Impact on Anxiety Response in Adulthood.
-
-A thesis submitted to the faculty of
-
-The School of Graduate Studies State University of New York Downstate Medical Center
-
-In partial fulfillment of the requirements for the degree of Doctor of Philosophy
-
-by
-
-**Matthew R. Evrard**
-
-Program in Neural and Behavioral Science
-
-03/27/2022
-
-Thesis Advisor: Sheryl Smith, Ph.D.
-
-Physiology and Pharmacology
-
-
 ## Introduction
 
 The intricate process of developing and refining the nervous system relies heavily on the formation and elimination of synaptic connections1. Synaptic pruning, a critical mechanism that removes unnecessary or weak synapses to foster circuit refinement and plasticity, plays a vital role in establishing appropriate neural circuits and behaviors2. Various neuropsychiatric disorders have been linked to dysregulation of synaptic pruning2,3. Although this dysregulation has been extensively investigated in schizophrenia4, its involvement in anxiety disorders remains largely unexplored. Anxiety disorders, which affect millions of people globally, are highly prevalent and produce debilitating conditions. Hence, understanding the mechanisms contributing to their development and maintenance is essential.
@@ -178,8 +156,8 @@ The expression of α4βδ GABAARs and the resulting enhanced inhibitory signalin
 
 **Specific Aim 1:**  Investigate synaptic pruning in the prelimbic cortex of mice across different developmental stages and conditions.
 
-1.  Assess synaptic pruning in Layer 2/3 and Layer 5 of female wildtype mice's prelimbic cortex during pubertal, postpubertal, and adult stages by characterizing alterations in density and morphology of various spine types.
-    1.  Analyze synaptic pruning in Layer 5 of male wildtype mice's prelimbic cortex during pubertal and postpubertal stages and contrast with female mice, focusing on spine density and morphology to detect potential sex-related differences.
+1.1  Assess synaptic pruning in Layer 2/3 and Layer 5 of female wildtype mice's prelimbic cortex during pubertal, postpubertal, and adult stages by characterizing alterations in density and morphology of various spine types.
+1.2  Analyze synaptic pruning in Layer 5 of male wildtype mice's prelimbic cortex during pubertal and postpubertal stages and contrast with female mice, focusing on spine density and morphology to detect potential sex-related differences.
 
 **Specific Aim 2:** Explore the role of functional α4βδ GABAARs in synaptic pruning in the prelimbic cortex of mice.
 
@@ -192,44 +170,3 @@ The expression of α4βδ GABAARs and the resulting enhanced inhibitory signalin
 Specific Aim 3: Assess the impact of manipulating synaptic pruning in the prelimbic cortex on anxiety-like
 
 3.1. Investigate the relationship between alterations in synaptic pruning, receptor expression, and anxiety-like behavior in conditional knock-down mice to determine the functional consequences of modulating α4βδ GABAARs-mediated synaptic pruning.
-
-**  
-**
-
-## Specific Aim 1
-
-#### 1.1 Assess synaptic pruning in Layer 2/3 and Layer 5 of female wildtype mice's prelimbic cortex during pubertal, postpubertal, and adult stages by characterizing alterations in density and morphology of various spine types.
-
-In this study, we aimed to assess synaptic pruning in the prelimbic cortex of female wildtype mice during different developmental stages, namely pubertal, postpubertal, and adult stages. We examined Layer 2/3 and Layer 5 of the prelimbic cortex, focusing on spine density and morphology. The dataset we analyzed, provided in the attached CSV file, includes mean and standard error of the mean (SEM) values for total, motile, and stable spine density, as well as mean and SEM values for various spine types, such as filopodia, thin, long-thin, mushroom, stubby, and bifurcated.
-
-To determine statistical significance, we conducted independent t-tests comparing total mean spine density between pubertal and postpubertal wildtype female mice for Layer 2/3 and Layer 5. Additionally, one-way ANOVA was performed to analyze differences in spine density and morphology across the three developmental stages for the various spine types.
-
-For Layer 2/3, our analysis revealed a significant decrease in total mean spine density from the pubertal stage (M = 31.03, SEM = 2.45) to the postpubertal stage (M = 16.50, SEM = 1.63) (t(72) = 5.26, p \< 0.001). Moreover, the one-way ANOVA results indicated significant differences in spine density and morphology for thin, long-thin, mushroom, stubby, and bifurcated spine types across the three developmental stages. Similarly, in Layer 5, we found a significant reduction in total mean spine density from the pubertal stage (M = 9.41, SEM = 0.91) to the postpubertal stage (M = 5.52, SEM = 0.57) (t(50) = 3.53, p \< 0.01). The one-way ANOVA results also showed significant differences in spine density and morphology for filopodia, thin, long-thin, mushroom, stubby, and bifurcated spine types across the three developmental stages.
-
-In conclusion, our statistical analysis suggests that synaptic pruning occurs in the prelimbic cortex of female wildtype mice during different developmental stages, as evidenced by the significant differences observed in total mean spine density between pubertal and postpubertal stages for both Layer 2/3 and Layer 5. Furthermore, our findings reveal significant differences in the density of various spine types across the three developmental stages, indicating that alterations in spine density and morphology are associated with the synaptic pruning process. These results contribute to our understanding of the neurobiological changes occurring during the development of female wildtype mice and may help in exploring the functional implications of synaptic pruning in the prelimbic cortex.
-
-#### 1.2. Analyze synaptic pruning in Layer 5 of male wildtype mice's prelimbic cortex during pubertal and postpubertal stages and contrast with female mice, focusing on spine density and morphology to detect potential sex-related differences.
-
-Synaptic pruning is a critical process in the development of the nervous system, where unnecessary synapses are eliminated, and the remaining synapses are strengthened. In this study, we aimed to investigate the synaptic pruning in Layer 2/3 and Layer 5 of the prelimbic cortex in female wildtype mice during pubertal, postpubertal, and adult stages. To do this, we examined spine density and morphology using the attached CSV file, which contains data on mean and standard error of the mean (SEM) values for total, motile, and stable spine density, as well as mean and SEM values for various spine types, including filopodia, thin, long-thin, mushroom, stubby, and bifurcated.
-
-Our statistical analysis involved independent t-tests to compare the total mean spine density between pubertal and postpubertal wildtype female mice in both Layer 2/3 and Layer 5. Additionally, we conducted one-way ANOVA to evaluate differences in spine density and morphology across the three developmental stages for different spine types.
-
-In Layer 2/3, our analysis showed a significant reduction in total mean spine density between pubertal (M = 31.03, SEM = 2.45) and postpubertal (M = 16.50, SEM = 1.63) wildtype female mice (t(72) = 5.26, p \< 0.001). Furthermore, one-way ANOVA revealed significant differences in spine density and morphology for thin, long-thin, mushroom, stubby, and bifurcated spine types across pubertal, postpubertal, and adult stages. Similarly, in Layer 5, we observed a significant decrease in total mean spine density from the pubertal stage (M = 9.41, SEM = 0.91) to the postpubertal stage (M = 5.52, SEM = 0.57) (t(50) = 3.53, p \< 0.01). The one-way ANOVA results also indicated significant differences in spine density and morphology for filopodia, thin, long-thin, mushroom, stubby, and bifurcated spine types across the three developmental stages.
-
-In conclusion, our findings demonstrate significant differences in total mean spine density between pubertal and postpubertal wildtype female mice in both Layer 2/3 and Layer 5 of the prelimbic cortex. Additionally, we identified significant differences in the density of various spine types across the three developmental stages. These results suggest that synaptic pruning occurs in the prelimbic cortex of female wildtype mice during different developmental stages and may be associated with changes in spine density and morphology. Understanding these alterations can help shed light on the neurobiological mechanisms underlying the development and function of the nervous system in female wildtype mice.
-
-## Specific Aim 2
-
-To examine the influence of GABAARs on dendritic pruning in Layer 5 of female mice, a range of drugs targeting these receptors were administered to postpubertal mice in comparison to the wild-type group. The drugs used in this study include Gaboxadol, Picrotoxin, Lorazepam, Memantine, and MK-801.
-
-Mice were divided into several experimental groups based on the drug administered: 1. Wild-type (WT) control group: no drugs administered; 2. Gaboxadol group: selectively targets the delta GABAARs; 3. Picrotoxin group: non-competitive GABAAR antagonist; 4. Lorazepam group: cannot bind to α4βδ GABAARs; 5. Memantine group: NMDA receptor antagonist; 6. MK-801 group: NMDA receptor antagonist.\\
-
-Mice were administered their respective drugs according to the dosages and durations recommended in the literature. The drugs were administered via intraperitoneal injection or oral gavage, as appropriate. Following drug administration, dendritic spines of Layer 5 pyramidal neurons in the somatosensory cortex were examined using confocal microscopy. Dendritic spine density, as well as the morphological classification of spines (i.e., filopodia, thin, long-thin, mushroom, stubby, and bifurcated), was determined for each experimental group.
-
-Statistical analysis was conducted to compare the total mean spine density and the morphological classification of spines between the different experimental groups. Independent t-tests were performed to compare the means of spine density and morphology between the WT control group and each drug-treated group. A one-way analysis of variance (ANOVA) followed by post-hoc Tukey's test was used when comparing multiple drug-treated groups. The level of significance was set at p \< 0.05. All statistical analyses were performed using IBM SPSS Statistics software (version 26).
-
-Results from this analysis will provide insight into the role of GABAARs in dendritic pruning in Layer 5 female mice and may help to identify potential therapeutic targets for the modulation of dendritic spine density and morphology.
-
-## Specific Aim 3
-
-# Discussion
